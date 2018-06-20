@@ -16,7 +16,7 @@ Requires:
 
 And the following additional python package: 
 
-1. python-openslide
+1. openslide-python
 2. matplotlib
 3. numpy
 4. scipy
